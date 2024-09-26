@@ -2,9 +2,13 @@
 
 ## Hi there 👋. Lets Get started
 
+### First things first create yourself a repo here
+
+Create a new repo for the storage of your code.
+
 There are two options for setting up your repo here. One is the easier choice the other is a little more advanced. Both require a small thing to remember
 
-## Option 1 - Create a copy
+### Option 1 - Create a copy
 
 1. clone the empty repo from the github page with `git clone <repo url>`
 2. copy your project into the repo
